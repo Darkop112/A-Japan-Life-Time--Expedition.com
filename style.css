@@ -359,6 +359,7 @@ h3{
     color: #fff;
 }
 
+
 /*------ places -----*/
 .sub-headers{
     height: 50vh;
@@ -397,12 +398,6 @@ h3{
 }
 .places-col:hover{
     box-shadow: 0 0 50px 0px rgba(226,0,0,0.7);
-}
-@media(max-width: 700px){
-    .row{
-        flex-direction: column;
-}
-
 }
 .fugi-col img{
     width: 650px;
@@ -445,11 +440,7 @@ h3{
     margin: 10px 0;
 }
 
-@media(max-width: 700px){
-    .row{
-        flex-direction: column;
-    }
-}
+
 /*----- hotels -----*/
 .sub-headersss{
     height: 50vh;
